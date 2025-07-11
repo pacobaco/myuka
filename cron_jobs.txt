@@ -1,0 +1,3 @@
+*/30 * * * * cd /path/to/onion-rotator && ./run_region.sh finance
+*/30 * * * * cd /path/to/onion-rotator && ./run_region.sh satire
+*/30 * * * * cd /path/to/onion-rotator && ./run_region.sh leaks
